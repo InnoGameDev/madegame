@@ -1,4 +1,3 @@
-![](https://i.imgur.com/vL80izv.jpg)
 
 # Wave Function Collapse
 
